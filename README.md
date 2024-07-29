@@ -1,1 +1,1 @@
-# LD
+materia de Lógica Digital
