@@ -1,1 +1,1 @@
-materia de Lógica Digital
+Matéria de Lógica Digital
